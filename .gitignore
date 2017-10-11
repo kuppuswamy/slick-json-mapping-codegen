@@ -1,0 +1,3 @@
+target
+/.idea
+src/main/scala/models/Tables.scala
